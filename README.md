@@ -5,11 +5,28 @@
 
 ---
 
+### 🏭 Project 6: Outsourcing Factory Performance
+**The Challenge:** Lack of real-time visibility into third-party factory production stages and shipment timelines.  
+**The Result:** A live monitoring dashboard that tracks order flow and production status, ensuring timely shipments and supply chain transparency.
+
+* **Key Features:** Real-time production tracking, order flow monitoring, shipment status visuals.
+* **Stack:** Power BI, Power Query, Real-time Data Integration.
+
+| Order Flow & Monitoring | Production Status |
+|---|---|
+| ![Order Flow](images/Factory%201.jpg) | ![Production Status](images/Factory%202.jpg) |
+
+| Shipment Tracking | Factory Overview |
+|---|---|
+| ![Shipment Tracking](images/Factory%203.jpg) | ![Factory Overview](images/Factory%204.jpg) |
+
+---
+
 ### 📊 Project 5: Sales & Operations 360°
 **The Challenge:** Disconnected data across sales, logistics, and inventory made it difficult to identify where performance was stalling.  
 **The Result:** A centralized dashboard providing a 360-degree view—linking inventory status directly to outlet coverage and delivery efficiency.
 
-* **Key Features:** Sales performance tracking, delivery gap analysis, outlet coverage, and real-time inventory status.
+* **Key Features:** Sales performance tracking, delivery gap analysis, outlet coverage, and inventory status.
 * **Stack:** Power BI, Power Query, DAX.
 
 | Sales Performance | Delivery Gaps |
