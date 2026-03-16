@@ -1,4 +1,4 @@
-# Farabi Hasan | Power BI Portfolio
+# Power BI Project Portfolio
 **Farabi1096 / portfolio** [← Back to Profile](https://github.com/Farabi1096) | [LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
 
 ---
