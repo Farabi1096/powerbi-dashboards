@@ -3,6 +3,13 @@
 
 ---
 
+### 🛠️ Expertise
+**Modeling:** Star Schema, DAX, Power Query (M)  
+**Analysis:** KPI Tracking, Gap Analysis, Time Intelligence  
+**UX/UI:** Custom Dashboard Themes & Navigation
+
+---
+
 ### 🏭 Project 6: Outsourcing Factory Performance
 > **Problem:** No real-time visibility into third-party production and shipment timelines.  
 > **Solution:** A live supply chain monitor tracking order flow from production to final shipment.
@@ -73,13 +80,3 @@
 <p align="center">
   <img src="images/Avenger%20Dashboard_page-0001.jpg" width="90%" />
 </p>
-
----
-
-### 🛠️ Expertise
-**Modeling:** Star Schema, DAX, Power Query (M)  
-**Analysis:** KPI Tracking, Gap Analysis, Time Intelligence  
-**UX/UI:** Custom Dashboard Themes & Navigation
-
----
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/farabi-hsn/)**
