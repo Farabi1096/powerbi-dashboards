@@ -1,14 +1,14 @@
 # Power BI Portfolio
-**Farabi1096 / portfolio** &nbsp; [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-000080?style=flat-square)](https://github.com/Farabi1096) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-hsn/)
+**Farabi1096 / portfolio** &nbsp; [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-4169E1?style=flat-square)](https://github.com/Farabi1096) [![LinkedIn](https://img.shields.io/badge/LinkedIn-4169E1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-hsn/)
 
 ---
 
 ### 🛠️ Expertise
-![Modeling](https://img.shields.io/badge/Modeling-Star_Schema_%7C_DAX-4169E1?style=flat-square) ![Analysis](https://img.shields.io/badge/Analysis-KPIs_%7C_Gaps_%7C_Trends-000080?style=flat-square) ![UX/UI](https://img.shields.io/badge/UX/UI-Custom_Navigation-4169E1?style=flat-square)
+![Modeling](https://img.shields.io/badge/Modeling-Star_Schema_%7C_DAX-4169E1?style=flat-square) ![Analysis](https://img.shields.io/badge/Analysis-KPIs_%7C_Gaps_%7C_Trends-4169E1?style=flat-square) ![UX/UI](https://img.shields.io/badge/UX/UI-Custom_Navigation-4169E1?style=flat-square)
 
 ---
 
-### ![P6](https://img.shields.io/badge/Project_6-Outsourcing_Factory_Performance-000080?style=for-the-badge)
+### ![P6](https://img.shields.io/badge/Project_6-Outsourcing_Factory_Performance-4169E1?style=for-the-badge)
 > **Problem:** No real-time visibility into third-party production and shipment timelines.  
 > **Solution:** A live supply chain monitor tracking order flow from production to final shipment.
 
@@ -38,7 +38,7 @@
 
 ---
 
-### ![P4](https://img.shields.io/badge/Project_4-Enterprise_Insights_Dashboard-000080?style=for-the-badge)
+### ![P4](https://img.shields.io/badge/Project_4-Enterprise_Insights_Dashboard-4169E1?style=for-the-badge)
 > **Problem:** Manual reporting slowing down cross-departmental decision-making.  
 > **Solution:** Automated DH coverage and assortment tracking for instant business-wide visibility.
 
@@ -60,7 +60,7 @@
 
 ---
 
-### ![P2](https://img.shields.io/badge/Project_2-Operational_Gap_Analysis-000080?style=for-the-badge)
+### ![P2](https://img.shields.io/badge/Project_2-Operational_Gap_Analysis-4169E1?style=for-the-badge)
 > **Problem:** High delivery loss without clarity on the specific drop-off point.  
 > **Solution:** A pipeline tracker identifying efficiency gaps from Order placement to final Delivery.
 
