@@ -1,90 +1,87 @@
-# Power BI Project Portfolio
-**Farabi1096 / portfolio** [← Back to Profile](https://github.com/Farabi1096) | [LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
+# Farabi1096 / portfolio
+[← Back to Profile](https://github.com/Farabi1096) | [LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-Data_Modeling-blue?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-Data_Analysis-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-> **Data Analyst** specializing in transforming raw business data into actionable visual stories. Expert in Power BI, DAX, and end-to-end ETL processes.
+### 🏭 Outsourcing Factory Performance
+> **Problem:** Zero real-time visibility into third-party production stages.  
+> **Solution:** A live supply chain monitor tracking order flow from production to shipment.
+
+<p align="center">
+  <img src="images/Factory%201.jpg" width="45%" />
+  <img src="images/Factory%202.jpg" width="45%" />
+</p>
+<p align="center">
+  <img src="images/Factory%203.jpg" width="45%" />
+  <img src="images/Factory%204.jpg" width="45%" />
+</p>
 
 ---
 
-### 🛠️ Technical Skillset
-* **Modeling:** Star Schema, Fact/Dimension Relationships, Snowflake.
-* **Analysis:** DAX (Measures & Columns), Time Intelligence, Trend Analysis.
-* **ETL:** Power Query (M Language), Data Cleaning & Transformation.
-* **Design:** UX/UI Focused Dashboards, Bookmark Navigation, Custom Themes.
+### 📊 Sales & Operations 360°
+> **Problem:** Fragmented data across sales and logistics leading to delivery delays.  
+> **Solution:** A centralized hub linking inventory status to real-time outlet coverage.
+
+<p align="center">
+  <img src="images/Dashboard%20Page%201.jpg" width="45%" />
+  <img src="images/Dashboard%20Page%202.jpg" width="45%" />
+</p>
+<p align="center">
+  <img src="images/Dashboard%20Page%203.jpg" width="45%" />
+  <img src="images/Dashboard%20Page%204.jpg" width="45%" />
+</p>
 
 ---
 
-### 🏭 Project 6: Outsourcing Factory Performance
-**The Challenge:** Lack of real-time visibility into third-party production stages and shipment timelines.  
-**The Result:** A live monitoring dashboard tracking order flow and production status to ensure supply chain transparency.
+### 📌 Enterprise Insights Dashboard
+> **Problem:** Manual reporting slowing down cross-departmental decision-making.  
+> **Solution:** Automated DH coverage and assortment tracking for instant business visibility.
 
-* **Stack:** Power BI, Power Query, Real-time Integration.
-
-| Order Flow & Monitoring | Production Status |
-|---|---|
-| ![Order Flow](images/Factory%201.jpg) | ![Production Status](images/Factory%202.jpg) |
-
-| Shipment Tracking | Factory Overview |
-|---|---|
-| ![Shipment Tracking](images/Factory%203.jpg) | ![Factory Overview](images/Factory%204.jpg) |
+<p align="center">
+  <img src="images/Sale%20Overview%20Dashboard_Fourth%20Project_page-0001.jpg" width="45%" />
+  <img src="images/Sale%20Overview%20Dashboard_Fourth%20Project_page-0002.jpg" width="45%" />
+</p>
 
 ---
 
-### 📊 Project 5: Sales & Operations 360°
-**The Challenge:** Disconnected data across sales, logistics, and inventory.  
-**The Result:** A centralized 360-degree view linking inventory status directly to outlet coverage and delivery efficiency.
+### 📈 Growth & Trend Tracker
+> **Problem:** Difficulty identifying seasonal shifts across various sales channels.  
+> **Solution:** Time-intelligence logic to automate WoW/QoQ growth and stock mapping.
 
-* **Stack:** Power BI, Power Query, DAX.
-
-| Sales Performance | Delivery Gaps |
-|---|---|
-| ![Sales Performance](images/Dashboard%20Page%201.jpg) | ![Delivery Gaps](images/Dashboard%20Page%202.jpg) |
-
-| Outlet Coverage | Inventory Status |
-|---|---|
-| ![Outlet Coverage](images/Dashboard%20Page%203.jpg) | ![Inventory Status](images/Dashboard%20Page%204.jpg) |
+<p align="center">
+  <img src="images/Sale%20Overview%20Dashboard_Third%20Project_page-0001.jpg" width="45%" />
+  <img src="images/Sale%20Overview%20Dashboard_Third%20Project_page-0004.jpg" width="45%" />
+</p>
 
 ---
 
-### 📌 Project 4: Enterprise Insights Dashboard
-**The Challenge:** Fragmented reporting across multiple business layers and assortment types.  
-**The Result:** A unified view for DH coverage and assortment tracking, improving cross-departmental visibility.
+### 📉 Operational Gap Analysis
+> **Problem:** High delivery loss without clear visibility on the drop-off point.  
+> **Solution:** A pipeline tracker identifying efficiency gaps from Order to Delivery.
 
-| Sales Overview | Assortment Breakdown |
-|---|---|
-| ![Sales Overview](images/Sale%20Overview%20Dashboard_Fourth%20Project_page-0001.jpg) | ![Assortment Page](images/Sale%20Overview%20Dashboard_Fourth%20Project_page-0002.jpg) |
-
----
-
-### 📈 Project 3: Growth & Trend Tracker
-**The Challenge:** Difficulty in identifying seasonal growth trends across different channels.  
-**The Result:** Integrated time intelligence to track WoW and QoQ growth with geographic stock mapping.
-
-| Performance Overview | Stock Map |
-|---|---|
-| ![Overview Page](images/Sale%20Overview%20Dashboard_Third%20Project_page-0001.jpg) | ![Stock Mapping](images/Sale%20Overview%20Dashboard_Third%20Project_page-0004.jpg) |
+<p align="center">
+  <img src="images/Sale%20Overview%20Dashboard_Second%20Project_page-0001.jpg" width="45%" />
+  <img src="images/Sale%20Overview%20Dashboard_Second%20Project_page-0002.jpg" width="45%" />
+</p>
 
 ---
 
-### 📉 Project 2: Operational Gap Analysis
-**The Challenge:** High delivery loss and lack of clarity on where orders were dropping off.  
-**The Result:** A tracker identifying gaps in the Order-to-Delivery pipeline and ECO performance.
+### 🚀 Avengers: Performance Ranking
+> **Problem:** Traditional performance reports failed to engage and motivate the sales team.  
+> **Solution:** A gamified, UI-focused ranking dashboard built to drive healthy competition.
 
-| Sales Metrics | ECO Performance |
-|---|---|
-| ![Sales Metrics](images/Sale%20Overview%20Dashboard_Second%20Project_page-0001.jpg) | ![ECO Page](images/Sale%20Overview%20Dashboard_Second%20Project_page-0002.jpg) |
-
----
-
-### 🚀 Project 1: Avengers (Gamified Ranking)
-**The Challenge:** Low engagement and motivation within the sales team using traditional spreadsheets.  
-**The Result:** A gamified, theme-based ranking dashboard that fostered a competitive and performance-driven culture.
-
-![Avengers Dashboard Screenshot](images/Avenger%20Dashboard_page-0001.jpg)
+<p align="center">
+  <img src="images/Avenger%20Dashboard_page-0001.jpg" width="90%" />
+</p>
 
 ---
 
-## 🙌 Thank You for Exploring My Work!
-I am always open to discussing data opportunities or collaborations. 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
+### 🛠️ Core Expertise
+* **Analytics:** DAX Time Intelligence, Gap Analysis, KPI Tracking.
+* **Technical:** Star Schema Modeling, M Language, Power Query ETL.
+* **Design:** Custom UX/UI Dashboards, Bookmark Navigation.
+
+---
+**Looking for a collaborative Data Analyst?** [Let's connect on LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
