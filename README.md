@@ -1,7 +1,24 @@
-# 📁 Power BI Portfolio
+# 📁 Power BI Project Portfolio
 [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) | [GitHub](https://github.com/Farabi1096/)
 
-> **Summary:** Data Analyst specializing in transforming raw business data into actionable visual stories using Power BI, DAX, and SQL.
+> **Summary:** Data Analyst specializing in transforming raw business data into actionable visual stories using Power BI, DAX, and SQL. Focused on driving business decisions through clarity and automation.
+
+---
+
+### 📊 Project 5: Sales & Operations 360°
+**The Challenge:** Disconnected data across sales, logistics, and inventory made it difficult to identify where performance was stalling.  
+**The Result:** A centralized dashboard providing a 360-degree view—linking inventory status directly to outlet coverage and delivery efficiency.
+
+* **Key Features:** Sales performance tracking, delivery gap analysis, outlet coverage, and real-time inventory status.
+* **Stack:** Power BI, Power Query, DAX.
+
+| Sales Performance | Delivery Gaps |
+|---|---|
+| ![Sales Performance](images/Dashboard%20Page%201.jpg) | ![Delivery Gaps](images/Dashboard%20Page%202.jpg) |
+
+| Outlet Coverage | Inventory Status |
+|---|---|
+| ![Outlet Coverage](images/Dashboard%20Page%203.jpg) | ![Inventory Status](images/Dashboard%20Page%204.jpg) |
 
 ---
 
@@ -9,7 +26,7 @@
 **The Challenge:** Fragmented reporting across multiple business layers and assortment types.  
 **The Result:** A unified view for DH coverage and assortment tracking, improving cross-departmental visibility.
 
-* **Key Features:** Angel view, visual clarity, usability-first design.
+* **Key Features:** Angel view, visual clarity, assortment breakdown.
 * **Stack:** Power BI, Power Query.
 
 | Sales Overview | Assortment Breakdown |
@@ -18,7 +35,7 @@
 
 ---
 
-### 📊 Project 3: Growth & Trend Tracker
+### 📈 Project 3: Growth & Trend Tracker
 **The Challenge:** Difficulty in identifying seasonal growth trends across different channels.  
 **The Result:** Integrated time intelligence to track WoW and QoQ growth automatically with geographic stock mapping.
 
@@ -31,7 +48,7 @@
 
 ---
 
-### 📈 Project 2: Operational Gap Analysis
+### 📉 Project 2: Operational Gap Analysis
 **The Challenge:** High delivery loss and lack of clarity on where orders were dropping off.  
 **The Result:** A performance tracker that identifies gaps in the Order-to-Delivery pipeline and ECO performance.
 
