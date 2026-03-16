@@ -1,10 +1,14 @@
 # 📁 Power BI Portfolio
 [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) | [GitHub](https://github.com/Farabi1096/)
 
+> **Summary:** Data Analyst specializing in transforming raw business data into actionable visual stories using Power BI, DAX, and SQL.
+
 ---
 
 ### 📌 Project 4: Enterprise Insights Dashboard
-**Focus:** Assortment analysis, DH coverage, and multi-layered business modeling.
+**The Challenge:** Fragmented reporting across multiple business layers.  
+**The Result:** A unified view for DH coverage and assortment tracking.
+
 * **Key Features:** Angel view, visual clarity, usability-first design.
 * **Stack:** Power BI, Power Query.
 
@@ -15,8 +19,10 @@
 ---
 
 ### 📊 Project 3: Growth & Trend Tracker
-**Focus:** Weekly/quarterly performance and geographic stock mapping.
-* **Key Features:** Time intelligence, category/channel trends, KPI tracking.
+**The Challenge:** Difficulty in identifying seasonal growth trends across different channels.  
+**The Result:** Integrated time intelligence to track WoW and QoQ growth automatically.
+
+* **Key Features:** Category/channel trends, KPI tracking, Stock Mapping.
 * **Stack:** Power BI, DAX.
 
 | Performance Overview | Stock Map |
@@ -25,23 +31,11 @@
 
 ---
 
-### 📈 Project 2: Operational Gap Analysis
-**Focus:** Supply chain efficiency (Order vs. Delivery) and brand contribution.
-* **Key Features:** Delivery loss tracking, ECO performance, territory drill-downs.
-* **Stack:** Power BI, Power Query.
-
-| Sales Metrics | ECO Performance |
-|---|---|
-| ![Sales Metrics](images/Sale%20Overview%20Dashboard_Second%20Project_page-0001.jpg) | ![ECO Page](images/Sale%20Overview%20Dashboard_Second%20Project_page-0002.jpg) |
+### 🚀 Technical Skills
+* **Data Modeling:** Star Schema, Snowflake, Fact/Dimension Relationships.
+* **DAX:** Calculated Measures, Columns, Time Intelligence, Filter Context.
+* **ETL:** Power Query (M Language), Data Cleaning & Transformation.
+* **Visualization:** Custom UX/UI, Drill-throughs, Tooltips, Bookmark Navigation.
 
 ---
-
-### 🚀 Project 1: Avengers (Gamified Ranking)
-**Focus:** Performance-driven motivation using a themed UI.
-* **Key Features:** Sales Officer ranking, custom themes, engagement-centric design.
-* **Stack:** Power BI.
-
-![Avengers Dashboard Screenshot](images/Avenger%20Dashboard_page-0001.jpg)
-
----
-**Open for collaborations.** [Connect with me](https://www.linkedin.com/in/farabi-hsn/)
+**Looking for a Data Analyst?** [Let's talk on LinkedIn.](https://www.linkedin.com/in/farabi-hsn/)
