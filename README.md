@@ -1,16 +1,14 @@
 # Power BI Portfolio
-**Farabi1096 / portfolio** [← Back to Profile](https://github.com/Farabi1096) | [LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
+**Farabi1096 / portfolio** &nbsp; [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-000080?style=flat-square)](https://github.com/Farabi1096) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-hsn/)
 
 ---
 
 ### 🛠️ Expertise
-**Modeling:** Star Schema, DAX, Power Query (M)  
-**Analysis:** KPI Tracking, Gap Analysis, Time Intelligence  
-**UX/UI:** Custom Dashboard Themes & Navigation
+![Modeling](https://img.shields.io/badge/Modeling-Star_Schema_%7C_DAX-4169E1?style=flat-square) ![Analysis](https://img.shields.io/badge/Analysis-KPIs_%7C_Gaps_%7C_Trends-000080?style=flat-square) ![UX/UI](https://img.shields.io/badge/UX/UI-Custom_Navigation-4169E1?style=flat-square)
 
 ---
 
-### 🏭 Project 6: Outsourcing Factory Performance
+### ![P6](https://img.shields.io/badge/Project_6-Outsourcing_Factory_Performance-000080?style=for-the-badge)
 > **Problem:** No real-time visibility into third-party production and shipment timelines.  
 > **Solution:** A live supply chain monitor tracking order flow from production to final shipment.
 
@@ -25,7 +23,7 @@
 
 ---
 
-### 📊 Project 5: Sales & Operations 360°
+### ![P5](https://img.shields.io/badge/Project_5-Sales_%26_Operations_360-4169E1?style=for-the-badge)
 > **Problem:** Disconnected data between sales and logistics causing delivery delays.  
 > **Solution:** A centralized hub linking inventory status to real-time outlet coverage and delivery efficiency.
 
@@ -40,7 +38,7 @@
 
 ---
 
-### 📌 Project 4: Enterprise Insights Dashboard
+### ![P4](https://img.shields.io/badge/Project_4-Enterprise_Insights_Dashboard-000080?style=for-the-badge)
 > **Problem:** Manual reporting slowing down cross-departmental decision-making.  
 > **Solution:** Automated DH coverage and assortment tracking for instant business-wide visibility.
 
@@ -51,7 +49,7 @@
 
 ---
 
-### 📈 Project 3: Growth & Trend Tracker
+### ![P3](https://img.shields.io/badge/Project_3-Growth_%26_Trend_Tracker-4169E1?style=for-the-badge)
 > **Problem:** Difficulty identifying seasonal shifts and growth trends across sales channels.  
 > **Solution:** Time-Intelligence DAX to automate WoW/QoQ growth trends and geographic stock mapping.
 
@@ -62,7 +60,7 @@
 
 ---
 
-### 📉 Project 2: Operational Gap Analysis
+### ![P2](https://img.shields.io/badge/Project_2-Operational_Gap_Analysis-000080?style=for-the-badge)
 > **Problem:** High delivery loss without clarity on the specific drop-off point.  
 > **Solution:** A pipeline tracker identifying efficiency gaps from Order placement to final Delivery.
 
@@ -73,7 +71,7 @@
 
 ---
 
-### 🚀 Project 1: Avengers – Performance Ranking
+### ![P1](https://img.shields.io/badge/Project_1-Avengers_Ranking-4169E1?style=for-the-badge)
 > **Problem:** Traditional performance reports failed to engage or motivate the sales team.  
 > **Solution:** A gamified, UI-focused ranking dashboard built to drive healthy competition.
 
