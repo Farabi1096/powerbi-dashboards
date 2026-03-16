@@ -1,13 +1,11 @@
-# Power BI Business Intelligence Portfolio
+# Power BI Portfolio
 **Farabi1096 / portfolio** [← Back to Profile](https://github.com/Farabi1096) | [LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-Data_Modeling-blue?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-Data_Analysis-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ### 🏭 Project 6: Outsourcing Factory Performance
-> **The Problem:** Lack of real-time visibility into third-party production stages and shipment timelines.  
-> **The Solution:** A live supply chain monitor tracking order flow from raw production to final shipment, ensuring total transparency.
+> **Problem:** No real-time visibility into third-party production and shipment timelines.  
+> **Solution:** A live supply chain monitor tracking order flow from production to final shipment.
 
 <p align="center">
   <img src="images/Factory%201.jpg" width="45%" />
@@ -21,8 +19,8 @@
 ---
 
 ### 📊 Project 5: Sales & Operations 360°
-> **The Problem:** Disconnected data between sales and logistics leading to delivery delays and inventory gaps.  
-> **The Solution:** A centralized 360° hub linking inventory status directly to real-time outlet coverage and delivery efficiency.
+> **Problem:** Disconnected data between sales and logistics causing delivery delays.  
+> **Solution:** A centralized hub linking inventory status to real-time outlet coverage and delivery efficiency.
 
 <p align="center">
   <img src="images/Dashboard%20Page%201.jpg" width="45%" />
@@ -36,8 +34,8 @@
 ---
 
 ### 📌 Project 4: Enterprise Insights Dashboard
-> **The Problem:** Manual reporting across multiple layers slowing down cross-departmental decision-making.  
-> **The Solution:** Automated DH coverage and assortment tracking for instant business-wide visibility and visual clarity.
+> **Problem:** Manual reporting slowing down cross-departmental decision-making.  
+> **Solution:** Automated DH coverage and assortment tracking for instant business-wide visibility.
 
 <p align="center">
   <img src="images/Sale%20Overview%20Dashboard_Fourth%20Project_page-0001.jpg" width="45%" />
@@ -47,8 +45,8 @@
 ---
 
 ### 📈 Project 3: Growth & Trend Tracker
-> **The Problem:** Difficulty identifying seasonal shifts and growth trends across various sales channels.  
-> **The Solution:** Time-Intelligence DAX to automate WoW/QoQ growth trends and geographic stock mapping.
+> **Problem:** Difficulty identifying seasonal shifts and growth trends across sales channels.  
+> **Solution:** Time-Intelligence DAX to automate WoW/QoQ growth trends and geographic stock mapping.
 
 <p align="center">
   <img src="images/Sale%20Overview%20Dashboard_Third%20Project_page-0001.jpg" width="45%" />
@@ -58,8 +56,8 @@
 ---
 
 ### 📉 Project 2: Operational Gap Analysis
-> **The Problem:** High delivery loss without clear visibility on the specific drop-off point in the supply chain.  
-> **The Solution:** A specialized pipeline tracker identifying efficiency gaps from Order placement to final Delivery.
+> **Problem:** High delivery loss without clarity on the specific drop-off point.  
+> **Solution:** A pipeline tracker identifying efficiency gaps from Order placement to final Delivery.
 
 <p align="center">
   <img src="images/Sale%20Overview%20Dashboard_Second%20Project_page-0001.jpg" width="45%" />
@@ -69,8 +67,8 @@
 ---
 
 ### 🚀 Project 1: Avengers – Performance Ranking
-> **The Problem:** Traditional performance reports failed to engage or motivate the sales team.  
-> **The Solution:** A gamified, UI-focused ranking dashboard built to drive healthy competition and performance tracking.
+> **Problem:** Traditional performance reports failed to engage or motivate the sales team.  
+> **Solution:** A gamified, UI-focused ranking dashboard built to drive healthy competition.
 
 <p align="center">
   <img src="images/Avenger%20Dashboard_page-0001.jpg" width="90%" />
@@ -78,10 +76,10 @@
 
 ---
 
-### 🛠️ Core Expertise
-* **Analytics:** DAX Time Intelligence, Gap Analysis, KPI Tracking, Trend Forecasting.
-* **Technical:** Star Schema Data Modeling, M Language, Power Query ETL.
-* **Design:** UX/UI Focused Dashboards, Bookmark Navigation, Interactive Tooltips.
+### 🛠️ Expertise
+**Modeling:** Star Schema, DAX, Power Query (M)  
+**Analysis:** KPI Tracking, Gap Analysis, Time Intelligence  
+**UX/UI:** Custom Dashboard Themes & Navigation
 
 ---
-**Looking for a collaborative Data Analyst?** [Let's connect on LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/farabi-hsn/)**
