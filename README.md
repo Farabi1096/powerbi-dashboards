@@ -1,5 +1,5 @@
 # Power BI Portfolio
-**Farabi1096 / portfolio** &nbsp; [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-4169E1?style=flat-square)](https://github.com/Farabi1096) [![LinkedIn](https://img.shields.io/badge/LinkedIn-4169E1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-hsn/)
+**Farabi1096 / portfolio** &nbsp; [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-4169E1?style=flat-square)](https://github.com/Farabi1096) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-hsn/)
 
 ---
 
