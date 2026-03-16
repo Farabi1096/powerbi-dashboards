@@ -1,5 +1,7 @@
-# [Farabi1096](https://github.com/Farabi1096) / **portfolio**
-[← Back to Profile](https://github.com/Farabi1096) | [LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
+# Farabi Hasan | Power BI Portfolio
+**Farabi1096 / portfolio** [← Back to Profile](https://github.com/Farabi1096) | [LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
+
+---
 
 > **Data Analyst** specializing in transforming raw business data into actionable visual stories. Expert in Power BI, DAX, and end-to-end ETL processes.
 
